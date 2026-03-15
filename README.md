@@ -5,12 +5,9 @@ Python CLI utility to read URLs from an Excel file, download/cached HTML, clean 
 ## Requirements
 
 - Python 3.9+
-- Libraries: `pandas`, `openpyxl`, `requests`, `jusText`, `tqdm`, `pytest`
-
-Install dependencies:
-
+- 
 ```bash
-pip install pandas openpyxl requests jusText tqdm pytest
+pip install -r requirements.txt
 ```
 
 ## Usage

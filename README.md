@@ -4,8 +4,8 @@ Python CLI utility to read URLs from an Excel file, download/cached HTML, clean 
 
 ## Requirements
 
-- Python 3.9+
-- 
+Python 3.9+
+
 ```bash
 pip install -r requirements.txt
 ```
